@@ -31,7 +31,8 @@ Note: The current release requires the format of the url to be https://modelship
 Please verify that Chrome is installed on your computer and is located at one of the following locations
 - Windows:
 	`'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'`
-	`'C:\Program Files\Google\Chrome\Application\chrome.exe'`
+	
+	:`'C:\Program Files\Google\Chrome\Application\chrome.exe'`
 
 - Mac (OSX):
 	`/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`	
