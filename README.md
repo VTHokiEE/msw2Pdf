@@ -13,7 +13,7 @@ Chrome browser
 
   `msw2Pdf-win.exe <url>`
 
-- Mac OSC
+- Mac (OSX)
 
   `./msw2Pdf-macos <url>`
 
@@ -26,7 +26,7 @@ Chrome browser
 
 	`./msw2Pdf-macos https://modelshipworld.com/topic/22768-18th-century-merchantman-half-hull-planking-kit-by-vthokiee-finished-nrg-148/`
 
-Note: The current release requires the format of the url to be https://modelshipworld.com/topic/\<topic\>/ 
+Note: The current release requires the format of the url to be h<span>ttps://</span>modelshipworld.com/topic/\<topic\>/ 
 
 ## Troubleshooting
 
