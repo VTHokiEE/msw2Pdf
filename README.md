@@ -26,7 +26,7 @@ Chrome browser
 
 	`./msw2Pdf-macos https://modelshipworld.com/topic/22768-18th-century-merchantman-half-hull-planking-kit-by-vthokiee-finished-nrg-148/`
 
-Note: The current release requires the format of the url to be 'https://modelshipworld.com/topic/<topic>/' 
+Note: The current release requires the format of the url to be https://modelshipworld.com/topic/\<topic\>/ 
 
 ## Troubleshooting
 
@@ -44,7 +44,7 @@ Please verify that Chrome is installed on your computer and is located at one of
 	`/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`	
 
 ## Todo
-- Create a user interface instead of utilizing the command line
-- Allow users to enter the location of Chrome if installed in a different directory
-- Allow users to select the save location for threads
+- [ ] Create a user interface instead of utilizing the command line
+- [ ] Allow users to enter the location of Chrome if installed in a different directory
+- [ ] Allow users to select the save location for threads
 
