@@ -30,7 +30,7 @@ Note: The current release requires the format of the url to be https://modelship
 
 ## Troubleshooting
 
-	`Could not find the Chrome browser
+	Could not find the Chrome browser
 
 Please verify that Chrome is installed on your computer and is located at one of the following locations
 - Windows:
