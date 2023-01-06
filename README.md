@@ -18,9 +18,13 @@ Chrome browser
   `./msw2Pdf-macos <url>`
 
 ### Examples
+- Windows:
 
-- `msw2Pdf-win.exe https://modelshipworld.com/topic/30186-hm-sloop-echo-1781-cross-section-by-vthokiee-148/`
-- `./msw2Pdf-macos https://modelshipworld.com/topic/30186-hm-sloop-echo-1781-cross-section-by-vthokiee-148/`
+	`msw2Pdf-win.exe https://modelshipworld.com/topic/30186-hm-sloop-echo-1781-cross-section-by-vthokiee-148/`
+
+- Mac (OSX):
+
+	`./msw2Pdf-macos https://modelshipworld.com/topic/30186-hm-sloop-echo-1781-cross-section-by-vthokiee-148/`
 
 Note: The current release requires the format of the url to be https://modelshipworld.com/topic/<topic>/ 
 
@@ -30,11 +34,13 @@ Note: The current release requires the format of the url to be https://modelship
 
 Please verify that Chrome is installed on your computer and is located at one of the following locations
 - Windows:
+	
 	`'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'`
 	
-	:`'C:\Program Files\Google\Chrome\Application\chrome.exe'`
+	`'C:\Program Files\Google\Chrome\Application\chrome.exe'`
 
 - Mac (OSX):
+	
 	`/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`	
 
 ## Todo
