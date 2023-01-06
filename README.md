@@ -20,11 +20,11 @@ Chrome browser
 ### Examples
 - Windows:
 
-	`msw2Pdf-win.exe https://modelshipworld.com/topic/30186-hm-sloop-echo-1781-cross-section-by-vthokiee-148/`
+	`msw2Pdf-win.exe https://modelshipworld.com/topic/22768-18th-century-merchantman-half-hull-planking-kit-by-vthokiee-finished-nrg-148/`
 
 - Mac (OSX):
 
-	`./msw2Pdf-macos https://modelshipworld.com/topic/30186-hm-sloop-echo-1781-cross-section-by-vthokiee-148/`
+	`./msw2Pdf-macos https://modelshipworld.com/topic/22768-18th-century-merchantman-half-hull-planking-kit-by-vthokiee-finished-nrg-148/`
 
 Note: The current release requires the format of the url to be https://modelshipworld.com/topic/<topic>/ 
 
