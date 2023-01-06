@@ -47,4 +47,4 @@ Please verify that Chrome is installed on your computer and is located at one of
 - [ ] Create a user interface instead of utilizing the command line
 - [ ] Allow users to enter the location of Chrome if installed in a different directory
 - [ ] Allow users to select the save location for threads
-
+- [ ] Allow flexibility in the url (i.e. trim content after the number title portion)
