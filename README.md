@@ -16,7 +16,10 @@ Chrome browser
 - Mac (OSX)
 
   Extract the app from the dmg
-  
+    Please note that downloading the dmg will cause the application to be quarentined. To run the app please use the following command:
+
+    `sudo xattr -rds com.apple.quarantine ./msw2Pdf.app`  
+
   Open the msw2Pdf app
 
   Enter the thread url and press generate 
