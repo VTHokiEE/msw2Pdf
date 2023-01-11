@@ -16,9 +16,13 @@ Chrome browser
 - Mac (OSX)
 
   Extract the app from the dmg
+  
   Open the msw2Pdf app
+
   Enter the thread url and press generate 
+
   To cancel the PDF generation press cancel (Please note this takes a few seconds to cancel) or press exit
+
   PDFs will be saved in the same folder that the application is run from
 
 ### Examples
