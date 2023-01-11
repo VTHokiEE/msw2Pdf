@@ -15,7 +15,11 @@ Chrome browser
 
 - Mac (OSX)
 
-  `./msw2Pdf-macos <url>`
+  Extract the app from the dmg
+  Open the msw2Pdf app
+  Enter the thread url and press generate 
+  To cancel the PDF generation press cancel (Please note this takes a few seconds to cancel) or press exit
+  PDFs will be saved in the same folder that the application is run from
 
 ### Examples
 - Windows:
@@ -24,9 +28,9 @@ Chrome browser
 
 - Mac (OSX):
 
-	`./msw2Pdf-macos https://modelshipworld.com/topic/22768-18th-century-merchantman-half-hull-planking-kit-by-vthokiee-finished-nrg-148/`
+	Todo: Add images
 
-Note: The current release requires the format of the url to be h<span>ttps://</span>modelshipworld.com/topic/\<topic\>/ 
+Note: The current wiondows release requires the format of the url to be h<span>ttps://</span>modelshipworld.com/topic/\<topic\>/ 
 
 ## Troubleshooting
 
@@ -44,7 +48,8 @@ Please verify that Chrome is installed on your computer and is located at one of
 	`/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`	
 
 ## Todo
-- [ ] Create a user interface instead of utilizing the command line
+- [x] Create a user interface instead of utilizing the command line
 - [ ] Allow users to enter the location of Chrome if installed in a different directory
 - [ ] Allow users to select the save location for threads
-- [ ] Allow flexibility in the url (i.e. trim content after the number title portion)
+- [x] Allow flexibility in the url (i.e. trim content after the number title portion)
+- [ ] Provide more error checking on the url
